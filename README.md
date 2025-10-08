@@ -10,3 +10,5 @@ aosp-prebuilt
 - [foxleezh/AOSP: 这是一个连载的博文系列，我将持续为大家提供尽可能透彻的Android源码分析](https://github.com/foxleezh/AOSP)
 - [kylemanna/docker-aosp: 🏗 Minimal Android AOSP build environment with handy automation wrapper scripts](https://github.com/kylemanna/docker-aosp)
 - [sounddrill31/crave_aosp_builder: Build android ROMs using github actions! Also automatically releases them here for easy OTA setup](https://github.com/sounddrill31/crave_aosp_builder)
+- [Exploring the Depths of Android OS Customization: Crafting Your Unique Mobile Experience — Part 1 | by Ahmed Elnoor | Medium](https://medium.com/@a7medelnoor/exploring-the-depths-of-android-os-customization-crafting-your-unique-mobile-experience-part-1-47fff0a6c878)
+- [Installing Apps on LineageOS – thinking geek](https://thinkinggeek.stewartclan.ca/installing-apps-on-lineageos/)
