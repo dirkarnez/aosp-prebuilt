@@ -12,3 +12,4 @@ aosp-prebuilt
 - [sounddrill31/crave_aosp_builder: Build android ROMs using github actions! Also automatically releases them here for easy OTA setup](https://github.com/sounddrill31/crave_aosp_builder)
 - [Exploring the Depths of Android OS Customization: Crafting Your Unique Mobile Experience — Part 1 | by Ahmed Elnoor | Medium](https://medium.com/@a7medelnoor/exploring-the-depths-of-android-os-customization-crafting-your-unique-mobile-experience-part-1-47fff0a6c878)
 - [Installing Apps on LineageOS – thinking geek](https://thinkinggeek.stewartclan.ca/installing-apps-on-lineageos/)
+- [安卓 AOSP代码目录含义_aosp 键盘配置文件目录-CSDN博客](https://blog.csdn.net/deggfg/article/details/90598185)
