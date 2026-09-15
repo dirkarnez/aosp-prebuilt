@@ -14,3 +14,6 @@ aosp-prebuilt
 - [Installing Apps on LineageOS – thinking geek](https://thinkinggeek.stewartclan.ca/installing-apps-on-lineageos/)
 - [安卓 AOSP代码目录含义_aosp 键盘配置文件目录-CSDN博客](https://blog.csdn.net/deggfg/article/details/90598185)
 - [dvab-sarma/android_device_opi_opi5_pro-kernel](https://github.com/dvab-sarma/android_device_opi_opi5_pro-kernel)
+
+
+<!-- Security scan triggered at 2026-09-15 09:29:29 -->
